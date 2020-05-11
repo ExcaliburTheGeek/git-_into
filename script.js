@@ -5,4 +5,4 @@ W=1200;
 canvas.height=H;
 canvas.width=W;
 
-
+pen=canvas.getContext('2d')
